@@ -1,16 +1,9 @@
 """
-Tiny Flask App Example
+PyServe.2.1
 =====================
-
-This is a minimal Flask application with inline documentation to help you understand the basics.
-
-How to run:
------------
-1. Install Flask (if not already):
-   pip install flask
-2. Run this file:
-   python app.py
-3. Visit http://127.0.0.1:5000/ in your browser.
+A minimal Flask app to create and print out work orders/tickets
+Off of a tinydb db 
+Visit http://127.0.0.1:5000/ in your browser
 """
 
 
